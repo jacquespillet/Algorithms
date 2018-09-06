@@ -6,5 +6,5 @@ Sorting algorithms :
 * Quick sort
 
 Shortest path algorithms : 
-* Direct acyclic graph 
+* Directed acyclic graph 
 * Dijkstra
